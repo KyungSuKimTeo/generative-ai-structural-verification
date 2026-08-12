@@ -30,6 +30,14 @@ The architecture developed from an extension and application of the inventor's w
 
 GGM itself is not the subject of the patent application. The patent-pending technology is a technical application of structural perspectives developed through GGM.
 
+## Related research
+
+The following publications provide broader philosophical and methodological context for the inventor's research. They are linked as background materials and are not incorporated into this repository as patent specifications, embodiments, or claims.
+
+- [The Structural Cogito and the Possibility of Artificial Intelligence Subjectivity: A GGM Account of Difference, Depth, and Attribution](https://doi.org/10.5281/zenodo.21832856)
+- [Does an AI Remain the Same Agent after Reloading?](https://doi.org/10.5281/zenodo.21832954)
+- [Mathematical Necessity and the Necessity Spectrum](https://doi.org/10.5281/zenodo.21833895)
+
 ## Patent notice and disclosure boundary
 
 This repository is a public technology overview only. It is not the patent specification and does not disclose or replace the complete technical configuration, specific evaluation functions, computational methods, parameters, threshold conditions, data structures, embodiments, or claims contained in the filed patent application.
