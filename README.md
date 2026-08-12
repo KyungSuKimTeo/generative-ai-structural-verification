@@ -26,6 +26,7 @@ Potential application areas include large language models, multimodal generation
 The architecture developed from an extension and application of the inventor's work in **GGM (Generative General Methodology)** to artificial-intelligence information processing and control.
 
 - [GGM Volume I, Korean edition (DOI: 10.5281/zenodo.21698260)](https://doi.org/10.5281/zenodo.21698260)
+- [GGM Volume I: Generative General Methodology (Amazon edition)](https://www.amazon.com/dp/B0HCGWZCYM)
 
 GGM itself is not the subject of the patent application. The patent-pending technology is a technical application of structural perspectives developed through GGM.
 
