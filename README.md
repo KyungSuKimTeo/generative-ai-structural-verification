@@ -5,8 +5,7 @@
 This repository presents a public, high-level overview of a patent-pending control architecture for generative artificial intelligence.
 
 - **Inventor:** Kyung Su Kim
-- **Korean Patent Application No.:** 10-2026-0150359
-- **Filing date:** August 11, 2026
+- **Korean Patent Application:** Filed with the Korean Intellectual Property Office (KIPO) on September 7, 2026 (application number to be added once assigned)
 - **Status:** Patent Pending
 
 ## Overview
